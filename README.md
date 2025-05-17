@@ -1,4 +1,4 @@
-# Threat Logger **Addon for Turtle WoW**
+# Threat Logger
 
 ![preview](https://raw.githubusercontent.com/ZenSociety/ProjectImagesVault/refs/heads/main/tlgcoverimg.png)
 
