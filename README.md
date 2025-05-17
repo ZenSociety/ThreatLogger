@@ -1,11 +1,11 @@
-# Threat Logger Addon for Turtle WoW
+# Threat Logger **Addon for Turtle WoW**
+
+![preview](https://raw.githubusercontent.com/ZenSociety/ProjectImagesVault/refs/heads/main/tlgcoverimg.png)
 
 ## Requirements
 1. Enable 'TWThreat' addon and 'ThreatLogger' Addon,
 2. Stay in a `party` or `raid`,
 3. Attacking an `elite` or `boss` level mob.
-
-![preview](https://raw.githubusercontent.com/ZenSociety/ProjectImagesVault/refs/heads/main/tlgcoverimg.png)
 
 ## Overview
 
@@ -18,7 +18,7 @@ The **Threat Logger** is a simple addon designed for Turtle WoW that assists pla
 - Allows players to enable or disable the logging feature.
 - Customizable player name for monitoring.
 
-## Installation (Vanilla, 1.12)
+## Installation (Turtle WOW, 1.17.2 Apr 01 2025)
 
 1. Download the Threat Logger addon files.
 2. Unpack the Zip file
