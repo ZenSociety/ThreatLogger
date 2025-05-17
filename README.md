@@ -38,3 +38,6 @@ You can control the Threat Logger using the following commands in the chat:
 ## Saving Logs
 
 To save your logged data, just wait for leaving combat or use the command `/tlg save` in the middle of a combat, and do a quick '/reload' to save the data to the file `ThreatLogger.lua` file located in your character's `SavedVariables` folder.
+
+## Check and share Logs
+Feel free to check and share logs in this [page](https://github.com/ZenSociety/ThreatLogger/issues) to improve our understanding about threat.
